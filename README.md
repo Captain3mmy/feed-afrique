@@ -1,12 +1,3 @@
-# Notus NextJS <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fnotus-nextjs%2F&text=Start%20your%20development%20with%20a%20Free%20Tailwind%20CSS%20and%20NextJS%20UI%20Kit%20and%20Admin.%20Let%20Notus%20NextJS%20amaze%20you%20with%20its%20cool%20features%20and%20build%20tools%20and%20get%20your%20project%20to%20a%20whole%20new%20level." target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
-
-![version](https://img.shields.io/badge/version-1.1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/creativetimofficial/notus-nextjs/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/notus-nextjs.svg)</a> <a href="https://github.com/creativetimofficial/notus-nextjs/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/notus-nextjs.svg)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
-
-![Notus NextJS](https://github.com/creativetimofficial/public-assets/blob/master/notus-nextjs/notus-nextjs.jpg?raw=true)
-
-### A beautiful UI Kit and Admin for Tailwind CSS and NextJS.
-
-Start your development with a Free Tailwind CSS and NextJS UI Kit and Admin. Let Notus NextJS amaze you with its cool features and build tools and get your project to a whole new level.
 
 Notus NextJS is Free and Open Source. It features multiple HTML and NextJS elements and it comes with dynamic components for NextJS.
 
@@ -31,23 +22,6 @@ If you like bright and fresh colors, you will love this Free Tailwind CSS Templa
 
 ### Pages
 
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will be able
-to quickly set up the basic structure for your web project.
-
-Here are all the page from the project:
-- [Presentation](https://demos.creative-tim.com/notus-nextjs/?ref=nnjs-github-readme)
-- Admin Samples
-  - [Dashboard](https://demos.creative-tim.com/notus-nextjs/admin/dashboard?ref=nnjs-github-readme)
-  - [Settings](https://demos.creative-tim.com/notus-nextjs/admin/settings?ref=nnjs-github-readme)
-  - [Tables](https://demos.creative-tim.com/notus-nextjs/admin/tables?ref=nnjs-github-readme)
-  - [Maps](https://demos.creative-tim.com/notus-nextjs/admin/maps?ref=nnjs-github-readme)
-- Authentication Samples
-  - [Login](https://demos.creative-tim.com/notus-nextjs/auth/login?ref=nnjs-github-readme)
-  - [Register](https://demos.creative-tim.com/notus-nextjs/auth/register?ref=nnjs-github-readme)
-- Presentation Samples
-  - [Landing](https://demos.creative-tim.com/notus-nextjs/landing?ref=nnjs-github-readme)
-  - [Profile](https://demos.creative-tim.com/notus-nextjs/profile?ref=nnjs-github-readme)
 
 
 ### Fully Coded Components
@@ -103,85 +77,6 @@ We also feature the following 18 dynamic components:
 ## Documentation
 The documentation for the Notus NextJS is hosted at our <a href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-readme" target="_blank">website</a>.
 
-## Quick start
-
-- <a href="https://www.creative-tim.com/product/notus-nextjs?ref=nnjs-github-readme" target="_blank">Download from Creative Tim</a>.
-- <a href="https://github.com/creativetimofficial/notus-nextjs" target="_blank">Check it on Github</a>.
-
-## Files and Folder
-
-This is the project structure that you will get upon the download:
-```
-notus-nextjs
-.
-├── CHANGELOG.md
-├── ISSUE_TEMPLATE.md
-├── LICENSE.md
-├── README.md
-├── assets
-│   ├── img
-│   │   ├── brand
-│   │   │   └── favicon.ico
-│   │   ├── github.svg
-│   │   └── google.svg
-│   └── styles
-│       ├── index.css
-│       └── tailwind.css
-├── components
-│   ├── Cards
-│   │   ├── CardBarChart.js
-│   │   ├── CardLineChart.js
-│   │   ├── CardPageVisits.js
-│   │   ├── CardProfile.js
-│   │   ├── CardSettings.js
-│   │   ├── CardSocialTraffic.js
-│   │   ├── CardStats.js
-│   │   └── CardTable.js
-│   ├── Dropdowns
-│   │   ├── IndexDropdown.js
-│   │   ├── NotificationDropdown.js
-│   │   ├── PagesDropdown.js
-│   │   ├── TableDropdown.js
-│   │   └── UserDropdown.js
-│   ├── Footers
-│   │   ├── Footer.js
-│   │   ├── FooterAdmin.js
-│   │   └── FooterSmall.js
-│   ├── Headers
-│   │   └── HeaderStats.js
-│   ├── Maps
-│   │   └── MapExample.js
-│   ├── Navbars
-│   │   ├── AdminNavbar.js
-│   │   ├── AuthNavbar.js
-│   │   └── IndexNavbar.js
-│   ├── PageChange
-│   │   └── PageChange.js
-│   └── Sidebar
-│       └── Sidebar.js
-├── layouts
-│   ├── Admin.js
-│   └── Auth.js
-├── next.config.js
-├── package.json
-├── pages
-│   ├── 404.js
-│   ├── _app.js
-│   ├── _document.js
-│   ├── _error.js
-│   ├── admin
-│   │   ├── dashboard.js
-│   │   ├── maps.js
-│   │   ├── settings.js
-│   │   └── tables.js
-│   ├── auth
-│   │   ├── login.js
-│   │   └── register.js
-│   ├── index.js
-│   ├── landing.js
-│   └── profile.js
-└── tailwind.config.js
-```
 
 ## Browser Support
 
@@ -205,36 +100,3 @@ We use GitHub Issues as the official bug tracker for the Notus NextJS. Here are 
 
 - Licensed under <a href="https://github.com/creativetimofficial/notus-nextjs/blob/main/LICENSE.md" target="_blank">MIT</a>
 
-## Useful Links
-
-- <a href="https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w" target="_blank">Tutorials</a>
-- <a href="https://www.creative-tim.com/affiliates/new?ref=nnjs-readme" target="_blank">Affiliate Program</a> (earn money)
-- <a href="http://blog.creative-tim.com/?ref=nnjs-readme" target="_blank">Blog Creative Tim</a>
-- <a href="https://www.creative-tim.com/templates/free?ref=nnjs-readme" target="_blank">Free Products</a> from Creative Tim
-- <a href="https://www.creative-tim.com/templates/premium?ref=nnjs-readme" target="_blank">Premium Products</a> from Creative Tim
-- <a href="https://www.creative-tim.com/templates/react?ref=nnjs-readme" target="_blank">React Products</a> from Creative Tim
-- <a href="https://www.creative-tim.com/templates/angular?ref=nnjs-readme" target="_blank">Angular Products</a> from Creative Tim
-- <a href="https://www.creative-tim.com/templates/vuejs?ref=nnjs-readme" target="_blank">VueJS Products</a> from Creative Tim
-- <a href="https://www.creative-tim.com/templates?ref=nnjs-readme" target="_blank">More products</a> from Creative Tim
-- Check our Bundles <a href="https://www.creative-tim.com/bundles?ref=nnjs-readme" target="_blank">here</a>
-- Check our awesome builder <a href="https://www.creative-tim.com/builder/argon?ref=nnjs-readme" target="_blank">here</a>
-- Check Tailwind Starter Kit, the project behind this product <a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=nnjs-readme" target="_blank">here</a>
-
-### Social Media
-
-Twitter: <a href="https://twitter.com/CreativeTim" target="_blank">https://twitter.com/CreativeTim</a>
-
-Facebook: <a href="https://www.facebook.com/CreativeTim" target="_blank">https://www.facebook.com/CreativeTim</a>
-
-Dribbble: <a href="https://dribbble.com/creativetim" target="_blank">https://dribbble.com/creativetim</a>
-
-Instagram: <a href="https://www.instagram.com/creativetimofficial/" target="_blank">https://www.instagram.com/creativetimofficial/</a>
-
-
-## Resources
-- Demo: <a href="https://demos.creative-tim.com/notus-nextjs/?ref=nnjs-readme" target="_blank">https://demos.creative-tim.com/notus-nextjs/?ref=nnjs-readme</a>
-- Download Page: <a href="https://www.creative-tim.com/product/notus-nextjs?ref=nnjs-github-readme" target="_blank">https://www.creative-tim.com/product/notus-nextjs</a>
-- Documentation: <a href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-readme" target="_blank">https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-readme</a>
-- License Agreement: <a href="https://www.creative-tim.com/license?ref=nnjs-readme" target="_blank">https://www.creative-tim.com/license?ref=nnjs-readme</a>
-- Support: <a href="https://www.creative-tim.com/contact-us?ref=nnjs-readme" target="_blank">https://www.creative-tim.com/contact-us?ref=nnjs-readme</a>
-- Issues: <a href="https://github.com/creativetimofficial/notus-nextjs/issues" target="_blank">Github Issues Page</a>

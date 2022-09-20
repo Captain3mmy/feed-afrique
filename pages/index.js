@@ -20,7 +20,7 @@ export default function Index() {
               </p>
               <div className="mt-12">
                 <a
-                  href="https://feedafriqueapp.vercel.app/"
+                  href="https://app.feedafrique.com/"
                   target="_blank"
                   className="get-started sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
                 >
@@ -308,7 +308,7 @@ export default function Index() {
               </p>
               <div className="sm:block flex flex-col mt-10">
                 <a
-                  href="app.feedafrique.com"
+                  href="https://app.feedafrique.com/"
                   target="_blank"
                   className="get-started sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
                 >

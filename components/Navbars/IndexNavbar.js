@@ -78,7 +78,7 @@ export default function Navbar(props) {
                   type="button"
                 >
                   <a
-                  href="https://feedafriqueapp.vercel.app/"
+                  href="https://app.feedafrique.com/"
                 >
                   <i className="fas fa-arrow-alt-circle-right"></i> Go To App
                   </a>
